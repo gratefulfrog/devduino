@@ -1,4 +1,5 @@
 # DevDuino core library
+Following Microsoft's purchase of Github, this project has migrated to gitlab.
 
 I have updated this library to work properly on a linux platform.
 
